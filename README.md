@@ -1,5 +1,10 @@
 # App2 — Consumo de API RESTful con Supabase en Android
 
+![Android](https://img.shields.io/badge/Android-API%2024%2B-3DDC84?style=flat&logo=android&logoColor=white)
+![Java](https://img.shields.io/badge/Java-11-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-REST%20API-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![Volley](https://img.shields.io/badge/Volley-1.2.1-4285F4?style=flat&logo=google&logoColor=white)
+
 Aplicación nativa Android desarrollada en Java que consume datos de una tabla `alumnos` desde una base de datos Supabase mediante su API RESTful. Los registros se obtienen en formato JSON usando Volley y se muestran en un `TextView`.
 
 ---
